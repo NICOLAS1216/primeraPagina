@@ -1,0 +1,83 @@
+
+.contenerdor-priincipal {
+    width: 836px;
+    height: 578px;
+    position: relative;
+    
+}
+div {
+        border: 1px solid;
+        width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    position: ;
+    margin: 0px;
+}
+.menu {
+    width: 115px;
+    height: 565px;
+    left: 0px;
+    top: 0px;
+    position: relative;
+    margin: 5px;
+
+}
+.perfil {
+    width: 103px;
+    height: 103px;
+    left: 0px;
+    top: 0px;
+    position: relative ;
+    margin: 5px;
+}
+.lista {
+    width: 63px;
+    height: 442px;
+    left: 5px;
+    top: 115px;
+    position: absolute;
+    margin: 0px;
+}
+.button {
+    width: 5px;
+    height: 5px;
+    left: 0px;
+    top: 412px;
+    position: absolute;
+    margin: 0px;
+}
+.productos {
+    width: 533px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    position: ;
+    margin: 0px;
+}
+.elementos {
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    position: ;
+    margin: 0px;
+}
+.add {
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    position: ;
+    margin: 0px;
+}
+.perfil img {
+    height: 99px;
+    left: 0px;
+    top: 1px;
+    position: absolute ;
+    margin: 0px;
+}
+ul {
+    border: 1px solid;
+}
